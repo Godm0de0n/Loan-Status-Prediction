@@ -38,7 +38,7 @@ pip install numpy pandas scikit-learn
 
 ## Model Training
 - The Support Vector Machine (SVM) model is used for classification.
-- The dataset is split into training and testing sets using an 80-20 ratio.
+- The dataset is split into training and testing sets using an 90-10 ratio.
 - The model is trained on the training dataset.
 
 ## Model Evaluation
