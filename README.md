@@ -31,7 +31,7 @@ pip install numpy pandas scikit-learn
 ```
 
 ## Data Processing
-1. Load the dataset using Pandas.
+1. Import the dataset and Load the dataset using Pandas.
 2. Perform data cleaning by handling missing values.
 3. Convert categorical variables into numerical values.
 4. Split the dataset into training and testing sets.
